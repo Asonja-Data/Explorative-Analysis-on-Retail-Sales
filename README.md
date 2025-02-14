@@ -10,7 +10,7 @@ This project aims to leverage retail sales data to drive business improvements t
 -	Visualizations to communicate key findings.
 -	Development of actionable recommendations for marketing, sales, and product strategies.
 ## Dataset Source: 
--	<a href=”https://www.kaggle.com/datasets?search=retail+sales”</a>
+-	<a href=”(https://github.com/Asonja-Data/Explorative-Analysis-on-Retail-Sales/blob/main/retail_sales_dataset.csv)”</a>
 
 ## Dataset Description
 -	File Name: Retail Sales Analysis.ipynb
